@@ -1,5 +1,5 @@
 <template>
-  <div v-if="empleado">
+  <div v-if="empleado"> 
     <h1>Detalles</h1>
     <table class="table table-info">
       <thead>
